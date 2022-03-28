@@ -86,7 +86,6 @@
 				3E5B705234CFA65BAE2A24BD /* Pods-Spotify.debug.xcconfig */,
 				65D65678A82C069AF7C70DDE /* Pods-Spotify.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
